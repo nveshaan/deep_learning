@@ -2,15 +2,18 @@
 
 This repo contains a set of DL algorithms implemented from first principles. These notebooks help to understand the inner workings of modern DL libraries such as Pytorch and Keras. Detailed analysis with a hint of mechanistic interpretability is provided along with the code.
 
-## Algorithms Implemented
+> For better experience with notebooks, it is recommended to view the repository at
+> https://nbviewer.org/github/nveshaan/dl_scratch/tree/main/
+
+## Architectures
 **Core**
+- [ ] Vanilla Neural Network
 - [ ] Weights Initialization
 - [ ] Optimizers
 - [ ] Normalization
 - [ ] Residual Connections
 
-**Neural Nets**
-- [x] MLP: Multi-Layer Perceptron
+**Inductive Bias**
 - [ ] CNN: Convolutional Neural Network
 - [ ] RNN: Recurrent Neural Network
 - [ ] GRU: Gated Recurrent Unit
@@ -22,18 +25,23 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Attention Mechanisms
 - [ ] Positional Encodings
 - [ ] Transformers
-- [ ] minGPT
 
-**Generative Models**
+## Model Paradigms
+**Generative**
+- [ ] GPT: Generative Pre-trained Transformer
 - [ ] VAE: Variational AutoEncoder
 - [ ] GAN: Generative Adversial Network
 - [ ] Diffusion
 - [ ] Flow Matching
 
-**Miscellanious**
-*Representation Learning:* Reconstruction vs Similarity
-*Self Supervised Learning*
-*Deep Unsupervised Learning*
+**Joint Embedding**
+- [ ] Contrastive Learning
+- [ ] Self-Supervised Learning
+
+## Emergent Phenomena
+- [ ] Grokking
+- [ ] Double Descent
+- [ ] Loss Landscape Visualization
 
 ## Setup
 ```bash

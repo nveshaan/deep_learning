@@ -9,9 +9,9 @@ This repo contains a set of DL algorithms implemented from first principles. The
 **Core**
 - [ ] Vanilla Neural Network
 - [ ] Weights Initialization
-- [ ] Optimizers
 - [ ] Normalization
 - [ ] Residual Connections
+- [ ] Optimizers
 
 **Inductive Bias**
 - [ ] CNN: Convolutional Neural Network
@@ -24,9 +24,12 @@ This repo contains a set of DL algorithms implemented from first principles. The
 **Attention**
 - [ ] Attention Mechanisms
 - [ ] Positional Encodings
-- [ ] Transformers
+- [ ] Transformer
 
 ## Model Paradigms
+**Discriminative**
+*Implemented in architectures*
+
 **Generative**
 - [ ] GPT: Generative Pre-trained Transformer
 - [ ] VAE: Variational AutoEncoder
@@ -43,13 +46,6 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Double Descent
 - [ ] Loss Landscape Visualization
 
-## Setup
-```bash
-git clone https://github.com/nveshaan/dl_scratch.git
-cd dl_scratch
-uv sync
-```
-
-## Acknowledgements
+# References
 
 MLP implementation is inspired from https://youtu.be/w8yWXqWQYmU?si=1PH7D9MPgnT7uYXU and https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi

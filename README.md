@@ -6,6 +6,7 @@ This repo contains a set of DL algorithms implemented from first principles. The
 > https://nbviewer.org/github/nveshaan/dl_scratch/tree/main/
 
 ## Architectures
+
 **Core**
 - [ ] Vanilla Neural Network
 - [ ] Weights Initialization
@@ -27,13 +28,14 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Transformer
 
 ## Model Paradigms
+
 **Discriminative**
 *Implemented in architectures*
 
 **Generative**
 - [ ] GPT: Generative Pre-trained Transformer
-- [ ] VAE: Variational AutoEncoder
-- [ ] GAN: Generative Adversial Network
+- [ ] VAE: Variational Autoencoder
+- [ ] GAN: Generative Adversarial Network
 - [ ] Diffusion
 - [ ] Flow Matching
 
@@ -45,7 +47,3 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Grokking
 - [ ] Double Descent
 - [ ] Loss Landscape Visualization
-
-# References
-
-MLP implementation is inspired from https://youtu.be/w8yWXqWQYmU?si=1PH7D9MPgnT7uYXU and https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi

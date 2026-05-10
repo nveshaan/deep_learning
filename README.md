@@ -29,7 +29,8 @@ This repo contains a set of DL algorithms implemented from first principles. The
 
 ## Model Paradigms
 
-**Discriminative**
+**Discriminative** 
+
 *Implemented in architectures*
 
 **Generative**

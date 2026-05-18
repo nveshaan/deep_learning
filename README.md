@@ -1,8 +1,8 @@
-# DL Algorithms
+# Deep Learning
 
-This repo contains a set of DL algorithms implemented from first principles. These notebooks help to understand the inner workings of modern DL libraries such as Pytorch and Keras. Detailed analysis with a hint of mechanistic interpretability is provided along with the code.
+This repo contains a set of DL algorithms implemented from first principles. These notebooks help to understand the inner workings of modern DL libraries such as PyTorch and Keras. Detailed analysis with a hint of mechanistic interpretability is provided along with the code.
 
-> For better experience with notebooks, it is recommended to view the repository at
+> For a better experience with notebooks, it is recommended to view the repository at
 > https://nbviewer.org/github/nveshaan/dl_scratch/tree/main/
 
 ## Architectures

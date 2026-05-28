@@ -42,9 +42,4 @@ This repo contains a set of DL algorithms implemented from first principles. The
 
 **Joint Embedding**
 - [ ] Contrastive Learning
-- [ ] Self-Supervised Learning
-
-## Emergent Phenomena
-- [ ] Grokking
-- [ ] Double Descent
-- [ ] Loss Landscape Visualization
+- [ ] Self-Distillation

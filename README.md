@@ -43,3 +43,10 @@ This repo contains a set of DL algorithms implemented from first principles. The
 **Joint Embedding**
 - [ ] Contrastive Learning
 - [ ] Self-Distillation
+
+<!-- autograd - andrej karpathy
+core - math of nn, equivariance, andrej karpathy
+inductive - goodfellow, geometry, mit, rnn blog
+attention - andrej's stanford video and blog
+generative - andrej's mingpt, mit, flowmatching, cs 182, deep unsupervised learning
+joint - ssl -->

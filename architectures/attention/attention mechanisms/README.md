@@ -19,3 +19,10 @@ Since then, many optimizations and adaptations into other domains have led to di
 Another axis where Attention had developed is optimization of **Compute and Memory** usage. The below figure shows different attention mechanisms proposed in this regard. Read more at [attention_arch.pdf](attention_arch.pdf)
 
 ![alt text](image-2.png)
+
+## Implementations
+
+- [ ] Additive
+- [ ] Multiplicative
+- [ ] Channel & Spatial (CBAM)
+- [ ] Graph Attention (GAT)

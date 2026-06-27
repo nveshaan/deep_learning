@@ -8,7 +8,7 @@ This repo contains a set of DL algorithms implemented from first principles. The
 ## Architectures
 
 **Core**
-- [ ] Vanilla Neural Network
+- [ ] Neural Network
 - [ ] Weights Initialization
 - [ ] Normalization
 - [ ] Residual Connections

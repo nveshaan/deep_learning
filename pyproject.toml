@@ -1,5 +1,5 @@
 [project]
-name = "dl-scratch"
+name = "deep_learning"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"

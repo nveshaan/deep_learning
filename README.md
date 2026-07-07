@@ -42,7 +42,7 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Flow Matching
 
 **Joint Embedding**
-- [ ] Contrastive Learning
+- [ ] Deep Metric Learning
 - [ ] Self-Distillation
 - [ ] Canonical Correlation Analysis
 

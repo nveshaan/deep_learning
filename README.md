@@ -13,6 +13,7 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Normalization
 - [ ] Residual Connections
 - [ ] Optimizers
+- [ ] Regularization
 
 **Inductive Bias**
 - [ ] CNN: Convolutional Neural Network
@@ -43,10 +44,18 @@ This repo contains a set of DL algorithms implemented from first principles. The
 **Joint Embedding**
 - [ ] Contrastive Learning
 - [ ] Self-Distillation
+- [ ] Canonical Correlation Analysis
+
+## Training Strategies
+
+- [ ] Knowledge Distillation
+- [ ] Domain Adaptation
+    - [ ] Gradient Reversal Layer (GRL)
+- [ ] Transfer Learning
 
 <!-- autograd - andrej karpathy
-core - math of nn, equivariance, andrej karpathy
+core - math of nn, equivariance, andrej karpathy, colah
 inductive - goodfellow, geometry, mit, rnn blog
 attention - andrej's stanford video and blog
-generative - andrej's mingpt, mit, flowmatching, cs 182, deep unsupervised learning
+generative - andrej's mingpt, mit, flowmatching, cs 182, deep unsupervised learning, murphy
 joint - ssl -->

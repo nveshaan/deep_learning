@@ -52,6 +52,7 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Domain Adaptation
     - [ ] Gradient Reversal Layer (GRL)
 - [ ] Transfer Learning
+    - [ ] Low-Rank Adaptation (LoRA)
 
 <!-- autograd - andrej karpathy
 core - math of nn, equivariance, andrej karpathy, colah

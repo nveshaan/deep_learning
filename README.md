@@ -13,6 +13,7 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Normalization
 - [ ] Residual Connections
 - [ ] Optimizers
+- [ ] Loss Functions
 - [ ] Regularization
 
 **Inductive Bias**

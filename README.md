@@ -29,6 +29,15 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Positional Encodings
 - [ ] Transformer
 
+**Conditioning Mechanisms**
+- [ ] Conditional/Adaptive Normalization
+    - [ ] CBN: Conditional Batch Norm
+    - [ ] FiLM: Feature-wise Linear Modulation
+    - [ ] adaLN: Adaptive Layer Normalization
+    - [ ] AdaIN: Adaptive Instance Normalization
+- [ ] Hypernetworks
+- [ ] Gating Mechanisms
+
 ## Model Paradigms
 
 **Discriminative** 

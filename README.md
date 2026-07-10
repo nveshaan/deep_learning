@@ -10,10 +10,11 @@ This repo contains a set of DL algorithms implemented from first principles. The
 **Core**
 - [x] Neural Network
 - [ ] Weights Initialization
+- [ ] Activations
 - [ ] Normalization
-- [ ] Residual Connections
-- [ ] Optimizers
 - [ ] Loss Functions
+- [ ] Optimizers
+- [ ] Residual Connections
 - [ ] Regularization
 
 **Inductive Bias**
@@ -29,8 +30,8 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Positional Encodings
 - [ ] Transformer
 
-**Conditioning Mechanisms**
-- [ ] Conditional/Adaptive Normalization
+**Modulation**
+- [ ] Normalization
     - [ ] CBN: Conditional Batch Norm
     - [ ] FiLM: Feature-wise Linear Modulation
     - [ ] adaLN: Adaptive Layer Normalization
@@ -56,15 +57,23 @@ This repo contains a set of DL algorithms implemented from first principles. The
 - [ ] Self-Distillation
 - [ ] Canonical Correlation Analysis
 
-## Training Strategies
+## Training
 
+**Strategies**
 - [ ] Knowledge Distillation
 - [ ] Domain Adaptation
-    - [ ] Gradient Reversal Layer (GRL)
 - [ ] Transfer Learning
-    - [ ] Low-Rank Adaptation (LoRA)
 
-<!-- autograd - andrej karpathy
+**Hacks**
+- [ ] Reparameterization Trick
+- [ ] Gumbel-Softmax
+- [ ] Log-Derivative Trick
+- [ ] Straight-Through Estimator (STE)
+- [ ] Gradient Reversal Layer (GRL)
+- [ ] Stop-Gradient (sg)
+- [ ] Momentum Updates
+
+<!--
 core - math of nn, equivariance, andrej karpathy, colah
 inductive - goodfellow, geometry, mit, rnn blog
 attention - andrej's stanford video and blog

@@ -14,7 +14,7 @@ This repo contains a checklist of deep learning components implemented from firs
 - [ ] Normalization
 - [ ] Loss Functions
 - [ ] Optimizers
-- [ ] Residual Connections
+- [ ] Skip Connections
 - [ ] Regularization
 
 **Inductive Bias**
@@ -31,11 +31,7 @@ This repo contains a checklist of deep learning components implemented from firs
 - [ ] Transformer
 
 **Modulation**
-- [ ] Normalization
-    - [ ] CBN: Conditional Batch Norm
-    - [ ] FiLM: Feature-wise Linear Modulation
-    - [ ] adaLN: Adaptive Layer Normalization
-    - [ ] AdaIN: Adaptive Instance Normalization
+- [ ] Conditional/Adaptive Normalization
 - [ ] Hypernetworks
 - [ ] Gating Mechanisms
 
@@ -66,7 +62,7 @@ This repo contains a checklist of deep learning components implemented from firs
 
 **Hacks**
 - [ ] Reparameterization Trick
-- [ ] Gumbel-Softmax
+- [ ] Gumbel-Softmax & Vector Quantisation
 - [ ] Log-Derivative Trick
 - [ ] Straight-Through Estimator (STE)
 - [ ] Gradient Reversal Layer (GRL)
